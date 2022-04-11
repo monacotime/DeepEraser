@@ -1,2 +1,2 @@
-# DeepEraser-DeepEraser-Diminished-Reality-Based-Real-time-Object-removal
+# DeepEraser
 Official Repo of the Paper
